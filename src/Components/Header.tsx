@@ -1,9 +1,9 @@
-import './Header.css'
+import './Styles/Header.css'
 
 function Header() {
   return (
     <div className="m-header">
-        <h3 className="m-header-title">MatchaIO</h3>
+        <h1 className="m-header-title">MatchaIO</h1>
     </div>
   )
 }

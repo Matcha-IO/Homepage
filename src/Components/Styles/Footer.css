@@ -1,0 +1,11 @@
+.m-footer {
+    background-color: rgb(27, 26, 26);
+    height: 80px;
+}
+
+.m-footer-title {
+    color: aliceblue;
+    padding-top: 25px;
+    margin: 0 0 0 0;
+    text-align: center;
+}
